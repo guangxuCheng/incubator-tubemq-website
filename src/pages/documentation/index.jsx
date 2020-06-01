@@ -9,6 +9,7 @@ import Bar from '../../components/bar';
 import Sidemenu from '../../components/sidemenu';
 import Footer from '../../components/footer';
 import docsConfig from '../../../site_config/docs';
+import devConfig from '../../../site_config/development';
 import './index.scss';
 
 // 锚点正则
@@ -87,7 +88,10 @@ class Documentation extends Language {
 
   render() {
     const language = this.getLanguage();
-    const dataSource = docsConfig[language];
+    let dataSource = docsConfig[language];
+    if (window.location.pathname.indexOf('/development/') >= 0) {
+        dataSource = devConfig[language];
+    }
     const __html = this.props.__html || this.state.__html;
     return (
       <div className="documentation-page">

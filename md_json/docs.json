@@ -1,6 +1,16 @@
 {
   "en-us": [
     {
+      "filename": "architecture.md",
+      "link": "/en-us/docs/architecture.html",
+      "meta": {}
+    },
+    {
+      "filename": "consumer_example.md",
+      "link": "/en-us/docs/consumer_example.html",
+      "meta": {}
+    },
+    {
       "filename": "contact.md",
       "link": "/en-us/docs/contact.html",
       "meta": {}
@@ -11,8 +21,48 @@
       "meta": {}
     },
     {
+      "filename": "deployment.md",
+      "link": "/en-us/docs/deployment.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-commit.md",
+      "link": "/en-us/docs/development/how-to-commit.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-contribute.md",
+      "link": "/en-us/docs/development/how-to-contribute.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-release.md",
+      "link": "/en-us/docs/development/how-to-release.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-subscribe.md",
+      "link": "/en-us/docs/development/how-to-subscribe.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-verify.md",
+      "link": "/en-us/docs/development/how-to-verify.html",
+      "meta": {}
+    },
+    {
       "filename": "http_access_API_definition.md",
       "link": "/en-us/docs/http_access_API_definition.html",
+      "meta": {}
+    },
+    {
+      "filename": "producer_example.md",
+      "link": "/en-us/docs/producer_example.html",
+      "meta": {}
+    },
+    {
+      "filename": "quick_start.md",
+      "link": "/en-us/docs/quick_start.html",
       "meta": {}
     },
     {
@@ -53,6 +103,16 @@
   ],
   "zh-cn": [
     {
+      "filename": "architecture.md",
+      "link": "/zh-cn/docs/architecture.html",
+      "meta": {}
+    },
+    {
+      "filename": "consumer_example.md",
+      "link": "/zh-cn/docs/consumer_example.html",
+      "meta": {}
+    },
+    {
       "filename": "contact.md",
       "link": "/zh-cn/docs/contact.html",
       "meta": {}
@@ -63,8 +123,58 @@
       "meta": {}
     },
     {
+      "filename": "deployment.md",
+      "link": "/zh-cn/docs/deployment.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-become-a-commiter.md",
+      "link": "/zh-cn/docs/development/how-to-become-a-commiter.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-commit.md",
+      "link": "/zh-cn/docs/development/how-to-commit.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-contribute.md",
+      "link": "/zh-cn/docs/development/how-to-contribute.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-release.md",
+      "link": "/zh-cn/docs/development/how-to-release.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-subscribe.md",
+      "link": "/zh-cn/docs/development/how-to-subscribe.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-use-jira.md",
+      "link": "/zh-cn/docs/development/how-to-use-jira.html",
+      "meta": {}
+    },
+    {
+      "filename": "how-to-verify.md",
+      "link": "/zh-cn/docs/development/how-to-verify.html",
+      "meta": {}
+    },
+    {
       "filename": "http_access_API_definition.md",
       "link": "/zh-cn/docs/http_access_API_definition.html",
+      "meta": {}
+    },
+    {
+      "filename": "producer_example.md",
+      "link": "/zh-cn/docs/producer_example.html",
+      "meta": {}
+    },
+    {
+      "filename": "quick_start.md",
+      "link": "/zh-cn/docs/quick_start.html",
       "meta": {}
     },
     {
